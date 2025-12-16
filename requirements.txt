@@ -1,0 +1,5 @@
+# The Strands Agents SDK is required for the core agent functionality
+# Note: Full Bedrock integration requires AWS setup outside this sandbox
+strands-agents
+openai
+pydantic
